@@ -38,7 +38,11 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
  */
 public class MainActivity extends SampleActivityBase {
 
+<<<<<<< HEAD
     public static final String TAG = "MainActivity2";
+=======
+    public static final String TAG = "MainActivity1";
+>>>>>>> refs/remotes/origin/master
 
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
